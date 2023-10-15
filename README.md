@@ -4,4 +4,16 @@ Pequeno script em Python e Jupyter Notebook para download de streams no formato 
 
 ## Pré-requisitos
 
-Possuir o ffmpeg instalado na máquina.
+Possuir o ffmpeg instalado na máquina. 
+
+**Ubuntu**:
+
+```bash
+sudo apt install -y ffmpeg
+```
+
+**macOS (Homebrew)**:
+
+```bash
+brew install ffmpeg
+```
